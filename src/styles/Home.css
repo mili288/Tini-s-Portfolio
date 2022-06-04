@@ -1,0 +1,30 @@
+body{
+    background-image: url(../images/GANG.png);
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+
+.home{
+    height: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 80px;
+    -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+    color: #edde37;
+}
+
+p{  
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+    font-size: 55px;
+    text-align: center;
+    color: #edde37;
+}
+

@@ -1,0 +1,27 @@
+img{
+    max-width: 1000px;
+    height: auto;
+}
+
+@media screen and (max-width: 600px) {
+    img{
+        display: flex;
+        max-width: 300px;
+        height: auto;
+    }
+    .img-container{
+        text-align: center;
+    }
+  }
+
+.img-container{
+    text-align: center;
+}
+
+h3{
+    font-size: 65px;
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #fff;
+    color: #000;
+    text-align: center;
+}

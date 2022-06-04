@@ -1,0 +1,8 @@
+.mangaContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.mangaContainer img{
+  border-radius: 7px;
+}
